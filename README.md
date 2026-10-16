@@ -38,5 +38,3 @@ Frontend developer from the Czech Republic who builds games and interactive prod
 
 **Design & tools**<br>
 <img src="https://skillicons.dev/icons?i=figma,blender,git,github" alt="Figma, Blender, Git, GitHub">
-
-Also: GLSL shaders · Rapier physics · Framer Motion · Cloudflare D1 · Gemini API · Playwright · PWA
