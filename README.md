@@ -19,7 +19,7 @@ Frontend developer from the Czech Republic who builds games and interactive prod
       <a href="https://matematickypoker.cz"><img src="assets/matematicky-poker.jpg" alt="Matematický poker: game in progress next to a live classroom leaderboard"></a>
       <h3><a href="https://matematickypoker.cz">Matematický poker</a></h3>
       <p>Number game on a 5×5 grid: place cards 1–13 and score poker hands in every row, column and diagonal. Server-validated leaderboard, daily challenge, 1v1 duels, lobbies for up to 50 players, 6 languages, installable PWA.</p>
-      <p><img src="assets/tag-javascript.png" height="24" alt="JavaScript"> <img src="assets/tag-netlify-functions.png" height="24" alt="Netlify Functions"> <img src="assets/tag-netlify-blobs.png" height="24" alt="Netlify Blobs"> <img src="assets/tag-playwright.png" height="24" alt="Playwright"></p>
+      <p><img src="assets/tag-javascript.png" height="24" alt="JavaScript"> <img src="assets/tag-cloudflare-workers.png" height="24" alt="Cloudflare Workers"> <img src="assets/tag-playwright.png" height="24" alt="Playwright"></p>
       <a href="https://matematickypoker.cz"><img src="assets/btn-poker.png" height="46" alt="Play Matematický poker"></a>
     </td>
   </tr>
@@ -27,4 +27,4 @@ Frontend developer from the Czech Republic who builds games and interactive prod
 
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=ts,js,react,threejs,nodejs,html,css,vite,netlify,cs,figma)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=ts,js,react,threejs,nodejs,html,css,vite,cloudflare,cs,figma)](https://skillicons.dev)
