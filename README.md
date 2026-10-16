@@ -27,4 +27,16 @@ Frontend developer from the Czech Republic who builds games and interactive prod
 
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=ts,js,react,threejs,nodejs,html,css,vite,cloudflare,cs,figma)](https://skillicons.dev)
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,cs" alt="TypeScript, JavaScript, HTML, CSS, PHP, Python, C#">
+
+**Frontend & 3D**<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite" alt="React, Tailwind CSS, Three.js, Vite">
+
+**Backend & cloud**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,cloudflare,netlify" alt="Node.js, Cloudflare, Netlify">
+
+**Design & tools**<br>
+<img src="https://skillicons.dev/icons?i=figma,blender,git,github" alt="Figma, Blender, Git, GitHub">
+
+Also: GLSL shaders · Rapier physics · Framer Motion · Cloudflare D1 · Gemini API · Playwright · PWA
