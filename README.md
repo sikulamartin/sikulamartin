@@ -6,7 +6,7 @@ Frontend developer from the Czech Republic who builds games and interactive prod
   <a href="https://undriven.io">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sikulamartin/sikulamartin/main/assets/title-undriven-dark.png">
-      <img alt="Undriven" src="https://raw.githubusercontent.com/sikulamartin/sikulamartin/main/assets/title-undriven-light.png" height="44">
+      <img alt="Undriven" src="https://raw.githubusercontent.com/sikulamartin/sikulamartin/main/assets/title-undriven-light.png" height="60">
     </picture>
   </a>
 </div>
@@ -17,7 +17,6 @@ Free open-world driving game in the browser. Endless procedurally generated road
 
 <img src="assets/tag-typescript.png" height="24" alt="TypeScript"> <img src="assets/tag-threejs.png" height="24" alt="Three.js"> <img src="assets/tag-rapier.png" height="24" alt="Rapier"> <img src="assets/tag-vite.png" height="24" alt="Vite">
 
-<a href="https://undriven.io"><img src="assets/btn-undriven.png" height="62" alt="Play Undriven"></a>
 
 <br>
 
@@ -25,7 +24,7 @@ Free open-world driving game in the browser. Endless procedurally generated road
   <a href="https://matematickypoker.cz">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sikulamartin/sikulamartin/main/assets/title-poker-dark.png">
-      <img alt="Matematický poker" src="https://raw.githubusercontent.com/sikulamartin/sikulamartin/main/assets/title-poker-light.png" height="30">
+      <img alt="Matematický poker" src="https://raw.githubusercontent.com/sikulamartin/sikulamartin/main/assets/title-poker-light.png" height="46">
     </picture>
   </a>
 </div>
@@ -36,18 +35,7 @@ Number game on a 5×5 grid: place cards 1–13 and score poker hands in every ro
 
 <img src="assets/tag-javascript.png" height="24" alt="JavaScript"> <img src="assets/tag-cloudflare-workers.png" height="24" alt="Cloudflare Workers"> <img src="assets/tag-playwright.png" height="24" alt="Playwright">
 
-<a href="https://matematickypoker.cz"><img src="assets/btn-poker.png" height="58" alt="Play Matematický poker"></a>
 
 ### Stack
 
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,cs" alt="TypeScript, JavaScript, HTML, CSS, PHP, Python, C#">
-
-**Frontend & 3D**<br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite" alt="React, Tailwind CSS, Three.js, Vite">
-
-**Backend & cloud**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,cloudflare,netlify" alt="Node.js, Cloudflare, Netlify">
-
-**Design & tools**<br>
-<img src="https://skillicons.dev/icons?i=figma,blender,git,github" alt="Figma, Blender, Git, GitHub">
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,cs,react,tailwind,threejs,vite,nodejs,cloudflare,netlify,figma,blender,git,github&perline=9" alt="TypeScript, JavaScript, HTML, CSS, PHP, Python, C#, React, Tailwind CSS, Three.js, Vite, Node.js, Cloudflare, Netlify, Figma, Blender, Git, GitHub">
