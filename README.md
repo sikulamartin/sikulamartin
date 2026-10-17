@@ -2,8 +2,6 @@
 
 Frontend developer from the Czech Republic who builds games and interactive products for the web. I design in Figma, build with TypeScript and care about the details, from frame rate to pixel spacing.
 
-[undriven.io](https://undriven.io) · [matematickypoker.cz](https://matematickypoker.cz) · sikula.martin@email.cz
-
 ### Featured projects
 
 <div>
