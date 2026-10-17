@@ -1,6 +1,6 @@
 ## Hi, I'm Martin
 
-Frontend developer from the Czech Republic who builds games and interactive products for the web. I design in Figma, build with TypeScript and care about the details, from frame rate to pixel spacing.
+Web developer from the Czech Republic who builds games and interactive products for the web. I design in Figma, build with TypeScript and care about the details, from frame rate to pixel spacing.
 
 <div>
   <a href="https://undriven.io">
